@@ -15,7 +15,7 @@ Its an HTML5 CSS3 Responsive Template, with 5 pages excluding 404 page. This tem
  - Any Major browser but
  - IE9+
  
- **Dropped support for older IE** since [Version 2.0.0](https://github.com/expiredqueues/It-Fits/releases/tag/v2.0), if you need those support, you can use [Version 1.0.0](https://github.com/expiredqueues/It-Fits/releases/tag/v1.0)
+ **Dropped support for older IE** since [Version 2.0.0](https://github.com/expiredqueues/itfits/tree/96e3047de4d80d13c2810abb48ae3127931ec174), if you need those support, you can use [Version 1.0.0](https://github.com/expiredqueues/itfits/tree/d35fc3a92470dbb60cb2998e26e2e7855b3920a6)
 
 Responsive Support:
  - Large Display (> 1200px)
